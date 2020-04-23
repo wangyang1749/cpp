@@ -8,7 +8,7 @@
             "args": [
                 "-g",
                 "-o",
-                "build/${fileBasenameNoExtension}.exe",
+                "build/${fileBasenameNoExtension}",
                 "${file}"
             ],
             "group": {
@@ -16,6 +16,7 @@
                 "isDefault": true
             }
         },
+        
         {
             "label": "build hello world",
             "type": "shell",

@@ -1,7 +1,7 @@
 /**
  * 指针与const
  * 指针不能修改 const在*之后
- * 通过指针不呢修改 const在*之前
+ * 通过指针不能修改 const在*之前
  * 2020 4 22
  **/
 #include <stdio.h>
