@@ -47,7 +47,17 @@
         "memory": "cpp",
         "memory_resource": "cpp",
         "thread": "cpp",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "complex": "cpp",
+        "condition_variable": "cpp",
+        "cstring": "cpp",
+        "list": "cpp",
+        "functional": "cpp",
+        "iterator": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "iomanip": "cpp",
+        "cinttypes": "cpp"
     },
     "python.pythonPath": "/usr/local/software/python3.7/bin/python",
     "code-runner.executorMap": {
