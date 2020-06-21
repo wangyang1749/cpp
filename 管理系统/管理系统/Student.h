@@ -1,6 +1,6 @@
 #pragma once
 #include <string>
-#include "stdafx.h"
+// #include "stdafx.h"
 #ifndef Student_H
 #define Student_H
 using namespace std;
