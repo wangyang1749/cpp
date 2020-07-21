@@ -31,6 +31,10 @@ public:
         return size;
     }
 };  
+// template<typename T>
+// T  Stack<T>::push(T value){
+    
+// }
 template<typename T>
 T Stack<T>::pop(){
     T temp = elemnet[size-1];
@@ -39,6 +43,7 @@ T Stack<T>::pop(){
     return temp;
 }
 
+//显式实例化
 template class Stack<int>;
 int main(){
     Stack<int> s1{};

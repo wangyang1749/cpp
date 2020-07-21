@@ -393,7 +393,7 @@ void DoStudent::menu()
                     while (!in.eof())
                     {
                         in >> name >> number >> yuwen >> shuxue >> waiyu;
-                        s[n] = new Student(name, number, yuwen, shuxue, waiyu);
+                        [sn] = new Student(name, number, yuwen, shuxue, waiyu);
                         stu[n] = *s[n];
                         delete s[n];
                         n++;
